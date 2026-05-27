@@ -16,3 +16,5 @@ The format is as follows:
 Where X is the location's latitude, Y is the location's longitude, and Z is either C or F (for Celsius, or Fahrenheit, respectively). 
 
 The PDF stating the group's work division was written by Jay Justice, one of my teammates. In the end, we received an 100 on the project. 
+
+-- Sunny Troyer
